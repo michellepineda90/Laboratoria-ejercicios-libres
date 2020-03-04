@@ -1,0 +1,23 @@
+* {
+    box-sizing: border-box;
+}
+
+.laboratoria {
+    display: block;
+    background-color: #F7B617;
+    height: 150px;
+    width: 200px;
+}
+
+.es {
+    display: block;
+    background-color: #2B2B2B;
+    color: white;
+    height: 150px;
+    width: 200px;
+}
+
+.text {
+    padding-top: 10px;
+    padding-left: 10px;
+}

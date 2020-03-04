@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.laboratoria {
+    display: inline-block;
+    background-color: #F7B617;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+.es {
+    display: inline-block;
+    background-color: #2B2B2B;
+    color: white;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+.text {
+    padding: 15px;
+}

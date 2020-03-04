@@ -1,0 +1,17 @@
+.laboratoria {
+    display: block;
+    background-color: #F7B617;
+    height: 150px;
+}
+
+.es {
+    display: block;
+    background-color: #2B2B2B;
+    color: white;
+    height: 150px;
+}
+
+.text {
+    padding-top: 10px;
+    padding-left: 10px;
+}
