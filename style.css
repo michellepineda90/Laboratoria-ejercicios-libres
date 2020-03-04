@@ -1,0 +1,63 @@
+.field {
+    width: 500px;
+    height: 250px;
+    background-color: mediumseagreen;
+    position: relative;
+}
+
+.limit {
+    width: 90%;
+    height: 90%;
+    border: 3px solid whitesmoke;
+    position: absolute;
+    top: 10px;
+    left: 20px;
+}
+
+.goal {
+    border: 3px solid whitesmoke;
+    width: 10%;
+    height: 30%;
+}
+
+.one {
+    position: absolute;
+    top: 85px;
+    left: 20px;
+}
+
+.two {
+    position: absolute;
+    top: 85px;
+    left: 420px;
+}
+
+.center {
+    border: 3px solid whitesmoke;
+    border-radius: 50%;
+    width: 70px;
+    height: 70px;
+    position: absolute;
+    top: 85px;
+    left: 210px;
+}
+
+.division {
+    border-left: 3px solid whitesmoke;
+    height: 228px;
+    position: absolute;
+    left: 50%;
+    margin-left: -3px;
+    top: 5%;
+}
+
+.ball {
+    border: 3px solid whitesmoke;
+    background-color: whitesmoke;
+    border-radius: 50%;
+    width: 5px;
+    height: 5px;
+    position: absolute;
+    top: 120px;
+    left: 360px;
+}
